@@ -7,5 +7,5 @@ For building the class for new project or any change in existing .scala,,use Log
 
 
  // val patt = """\[\d{1,2}\/\d{2}\/\d{2} \d{1,2}:\d{2}:\d{2}:\d{3} GMT\] \w+ \w+.*O (\d{4}-\d{2}-\d{2} \d\d:\d\d:\d\d,\d{3}):TIMER  :(.+?): (.+?) - (Begin|End).+?: (\w+).*""".r
-can also be used for Joann as few app server logs doesnot work with old .class
+can also be used for Joann as few app server logs doesnot work with old .class..in that case use LogParserForJoAnnSecond.class
 
